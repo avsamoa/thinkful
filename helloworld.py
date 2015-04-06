@@ -1,0 +1,4 @@
+Hello="Talofa"
+
+print Hello
+
